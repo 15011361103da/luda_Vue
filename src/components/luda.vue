@@ -11,7 +11,6 @@
         <!--用来清除子元素浮动-->
         <div class="clear"></div>
       </div>
-      <p>搜索<i class="iconfont icon-gouwucheman"></i></p>
       66666666666666
     </div>
 </template>
